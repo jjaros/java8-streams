@@ -9,6 +9,8 @@ public class PrimitiveStreamsTest {
 
     @Test
     public void testCreateIntStream() {
+        // The same methods supports java.util.stream.DoubleStream and java.util.stream.LongStream interfaces.
+
         // int stream with single value
         // result: 5
         IntStream.of(5).forEach(System.out::println);
