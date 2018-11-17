@@ -1,4 +1,4 @@
-package cz.jjaros.playing.streams;
+package cz.jjaros.funfromboredom.streams;
 
 import org.junit.Test;
 
